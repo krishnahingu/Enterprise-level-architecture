@@ -2,4 +2,4 @@
 
 ### High Level Design 
 
-<img src="./img/hld.png"/>
+<img src="./image.png"/>
